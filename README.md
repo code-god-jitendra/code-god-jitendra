@@ -1,0 +1,15 @@
+- 👋 Hi, I’m jitendra aka @code-god-jitendra
+- 👀 I love computers and every technology about computers
+- 🌱 I like programming and dsa
+- 💞️ I work on development too...
+- 📫 I know a good amount of UI/UX too...
+- 😄 Academically i am a computer science engineering student
+- ⚡ Alaways ready for opportutnities and to collaborate
+
+- reach me out at
+- email: jitendra0905kumar@gmail.com
+- X: https://x.com/Jitendr06616435?t=6g3D1BtXfJWZCEFieBwfKQ&s=09
+- LinkedIn: https://www.linkedin.com/in/jitendra-kumar-09-05-2004j?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Leetcode: https://leetcode.com/u/jitendra0905kumar/
+- Geeksforgeeks: https://www.geeksforgeeks.org/user/jitendra0dzr2/
+- hackerrank: https://www.hackerrank.com/profile/jitendra0905kum1
