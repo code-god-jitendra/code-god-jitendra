@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jitendra aka @code-god-jitendra
+- 👋 Hi, I’m jitendra
 - 👀 I love computers and every technology about computers
 - 🌱 I like programming and dsa
 - 💞️ I work on development...
